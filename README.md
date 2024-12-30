@@ -27,7 +27,7 @@ Run the script:
 
 Notes
 
-    On Windows, the script requires the pyautogui library for Python.
-    On Linux, the Bash script does not require additional dependencies. Ensure your terminal supports shell scripting.
+On Windows, the script requires the pyautogui library for Python.
+  On Linux, the Bash script does not require additional dependencies. Ensure your terminal supports shell   scripting.
 
 Enjoy using the endless mouse script!
