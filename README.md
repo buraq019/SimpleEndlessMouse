@@ -10,16 +10,16 @@ This script allows you to create an endless mouse movement effect on both Window
    ```bash
    pip install pyautogui
 
-    Run the Python script:
+Run the Python script:
 
     python mouse.py
 
 For Linux
 
-    Download the Bash script.
+   Download the Bash script.
     Make the script executable:
 
-chmod +x mouse.sh
+     chmod +x mouse.sh
 
 Run the script:
 
